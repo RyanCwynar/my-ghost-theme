@@ -1,8 +1,8 @@
 {
-  "name": "attila",
-  "description": "Ghost Theme",
-  "demo": "https://attila.peteramende.de",
-  "version": "3.1.1",
+  "name": "cwynar-dev-ghost-theme",
+  "description": "My personal ghost theme derived from Attila",
+  "demo": "https://cwynar.dev",
+  "version": "0.0.1",
   "engines": {
     "ghost": ">=4.0.0",
     "ghost-api": "v4"
@@ -13,9 +13,9 @@
     "mobile": "src/screenshot-mobile.jpg"
   },
   "author": {
-    "name": "Peter Amende",
-    "email": "hey@peteramende.de",
-    "url": "https://peteramende.de"
+    "name": "Ryan Cwynar",
+    "email": "ryan@cwynar.dev",
+    "url": "https://cwynar.dev"
   },
   "gpm": {
     "type": "theme",
