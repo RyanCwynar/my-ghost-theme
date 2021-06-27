@@ -1,4 +1,4 @@
-# Attila
+# Attila - co-opted for cwynar.dev
 
 A content focused responsive theme for [Ghost](https://github.com/tryghost/ghost/). See a demo at: [attila.peteramende.de](https://attila.peteramende.de/)
 
