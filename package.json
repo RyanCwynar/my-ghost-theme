@@ -2,7 +2,7 @@
   "name": "cwynar-dev-ghost-theme",
   "description": "My personal ghost theme derived from Attila",
   "demo": "https://cwynar.dev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "ghost": ">=4.0.0",
     "ghost-api": "v4"
