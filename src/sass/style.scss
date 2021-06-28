@@ -1581,6 +1581,7 @@ textarea {
 		}
 
 		&.nav-twitter,
+		&.nav-github,
 		&.nav-facebook {
 			@media only screen and (max-width: $breakpoint-medium) {
 				display: none;
